@@ -1,0 +1,10 @@
+[
+  {
+    "prefix": "link!help",
+    "msg": "Lo siento aun estoy trabajando en la ayuda de este bot"
+  },
+  {
+    "prefix": "link!feedback",
+    "msg": "Lo siento aun estoy trabajando en este comando."
+  }
+]
