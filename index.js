@@ -123,6 +123,6 @@ client.on("messageCreate", (msg) => {
   }
 });
 
-client.login(token_dev);
+client.login(token);
 
 //msg.content es el contenido del mensaje
