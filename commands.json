@@ -6,5 +6,9 @@
   {
     "prefix": "link!feedback",
     "msg": "Lo siento aun estoy trabajando en este comando."
+  },
+  {
+    "prefix":"link!credits",
+    "msg":"Creado Con :heart: Por `Kreisler#1523`"
   }
 ]

@@ -1,12 +1,15 @@
 {
   "name": "prueba-discord",
   "version": "1.0.0",
-  "description": "",
+  "description": "Un bot que genera vista previas de enlaces.",
   "main": "index.js",
   "scripts": {
+    "app": "node index.js",
     "start": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "bot"
+  ],
   "author": "name <email>",
   "license": "ISC",
   "dependencies": {
